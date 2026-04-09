@@ -37,7 +37,7 @@ When updating for the actual business:
 3. Update social media links in the footer
 4. Update the `<meta>` tags and `<link rel="canonical">` in `<head>`
 5. Update stats in `#about` section (projects delivered, years experience)
-6. Replace `hello@pbacrylic.com` in all `mailto:` hrefs
+6. Email is `Kath@lbtfurparent.com`, location is `LBT`
 
 ## Local Development
 
